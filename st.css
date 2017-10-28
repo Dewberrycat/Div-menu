@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+.div1, .div2, .div3 {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
+
+.div1 {
+	display: none;
+	top: 30px;
+	left: 30px;
+	background-color: red;
+}
+
+.div2 {
+	display: none;
+	top: 30px;
+	left: 60px;
+	background-color: lightblue;
+}
+
+.div3 {
+	display: none;
+	top: 30px;
+	left: 90px;
+	background-color: darkgrey;
+}
