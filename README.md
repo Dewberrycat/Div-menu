@@ -1,2 +1,2 @@
-# Div-menu
+# Div menu
 menu based on div blocks
