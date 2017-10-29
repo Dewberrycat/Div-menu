@@ -1,2 +1,2 @@
 # Div menu
-menu based on div blocks
+Menu based on div blocks using JQuery.
